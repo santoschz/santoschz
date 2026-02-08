@@ -7,7 +7,7 @@ I’ve been a tech geek since I can remember. For me, software is a tool for **s
 ---
 
 ### 🚀 What I'm building
-* **[Honesther] (Stealth Mode)** * *My current Learning Lab:* A specialized PWA for the US market.
+* **(Stealth Mode)** * *My current Learning Lab:* A specialized PWA for the US market.
     * *Focus:* Clean UI/UX + Modern development standards.
 * **Social Impact Tools**
     * Developing side projects that simplify daily life and contribute to the community.
